@@ -1,5 +1,5 @@
 # Bigdata
-lab assignment
+lab assignment link are list as following:
 
 lab 2 link: https://github.com/nancyynx88/lab2
 
